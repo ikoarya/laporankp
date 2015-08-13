@@ -1,0 +1,12 @@
+4.1 Analisis kebutuhan
+4.2 definisi umum aplikasi
+4.3 perancangan fungsionalitas aplikasi
+	-perancangan fungsionalitas aplikasi
+		<usecase>
+	-cara kerja aplikasi
+		- <poin2 berdasarkan usecase + diagram aktivitas dan penjelasannya>
+4.4 perancangan data
+	penjelasan terkait database, dlm bentuk paragraf
+	-poin2 per tabel, isinya atribut2 nya dan penjelasan tabel tsb
+4.5 perancangan antarmuka
+	-rancangan per halaman (bisa mirip sama screenshot)
