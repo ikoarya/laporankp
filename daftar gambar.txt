@@ -1,0 +1,16 @@
+GAMBAR
+2.1 Logo Perusahaan MRH Studio hal 25
+3.1 Proses Building sebuah aplikasi mobile, menggunakan PhoneGap hal 29
+3.2 Salah-satu contoh chart dari Chart.JS hal 31
+4.1 Diagram kasus penggunaan Cakra Mobile hal 37
+4.2 Diagram Aktivitas untuk Kasus Mendaftarkan Akun hal 42
+4.3 Diagram Aktivitas untuk Kasus Melakukan Pengatuan Akun hal 43
+4.4 Diagram Aktivitas untuk Kasus Melakukan Pengaturan Aplikasi hal 44
+4.5 Diagram Aktivitas untuk Kasus Melakukan Pengaturan Reward hal 45
+4.6 Diagram Aktivitas untuk Kasus Melakukan Evaluasi hal 46
+4.7 Diagram Aktivitas untuk Kasus Melakukan Terapi hal 47
+4.8 Diagram Aktivitas untuk Kasus Melihat Hasil Terapi hal 48
+4.9 Diagram Aktivitas untuk Kasus Melihat Laporan hal 49
+4.10 Diagram Aktivitas untuk Kasus Melihat Petunjuk Penggunaan Aplikasi hal 50
+4.11 Diagram Aktivitas untuk Kasus Melihat Informasi Tentang Aplikasi hal 50
+4.12 Diagram Aktivitas untuk Kasus Melihat Informasi Tentang Autis hal 51
