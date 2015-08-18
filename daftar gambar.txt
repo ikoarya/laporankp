@@ -14,3 +14,4 @@ GAMBAR
 4.10 Diagram Aktivitas untuk Kasus Melihat Petunjuk Penggunaan Aplikasi hal 50
 4.11 Diagram Aktivitas untuk Kasus Melihat Informasi Tentang Aplikasi hal 50
 4.12 Diagram Aktivitas untuk Kasus Melihat Informasi Tentang Autis hal 51
+4.13 CDM database Cakra Mobile
