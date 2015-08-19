@@ -6,3 +6,7 @@ TABEL
 4.5 Tabel Pertanyan hal 55
 4.6 Tabel Terapi hal 56
 4.7 Tabel Reward hal 56
+6.1 Hasil Pengujian hal 134
+6.2 Hasil pengujian pendaftaran akun hal 136
+6.3 Hasil Pengujian Melakukan Evaluasi hal 138
+6.4 Pengujian Hasil Evaluasi hal 139

@@ -15,3 +15,112 @@ GAMBAR
 4.11 Diagram Aktivitas untuk Kasus Melihat Informasi Tentang Aplikasi hal 50
 4.12 Diagram Aktivitas untuk Kasus Melihat Informasi Tentang Autis hal 51
 4.13 CDM database Cakra Mobile
+
+5.1 Kode Sumber Tampilan Antarmuka Utama hal 58
+5.2 Kode Sumber Fungsi Font Responsif hal 59
+5.3
+5.4
+5.5
+5.6 Kode Sumber Form Input Pendaftaran hal 63
+5.7 Kode Sumber Form Input Pendaftaran (2) hal 64
+5.8 Kode Sumber Fungsi untuk menyimpan path gambar hal 65
+5.9 Kode Sumber Fungsi Pengambilan Gambar hal 66
+5.10 Kode Sumber Pemanggilan Flowtype.js pada Antarmuka Pendaftaran hal 67
+5.11 Kode Sumber Antarmuka Petunjuk Aplikasi 1 hal 67
+5.12 Kode Sumber Antarmuka Petunjuk Aplikasi 2 hal 68
+5.13 Kode Sumber Antarmuka Petunjuk Aplikasi 3 hal 68
+5.14 Kode Sumber Antarmuka Petunjuk Aplikasi 4 hal 68
+5.15 Kode Sumber Antarmuka Petunjuk Aplikasi 5 hal 69
+5.16 Kode Sumber Flowtype pada Antarmuka Petunjuk Aplikasi hal 69
+5.17 Kode Sumber Antarmuka Tentang hal 70
+5.18 Kode Sumber Fungsi menampilkan frame credit hal 70
+5.19 Kode Sumber Antarmuka Pengaturan hal 71
+5.20 Kode Sumber Antarmuka Login hal 72
+5.21 Kode Sumber Antarmuka Informasi hal 73
+5.22 Kode Sumber Daftar pertanyaan Evaluasi hal 74
+5.23 Kode Sumber Fungsi menampilkan pertanyaan sebelumnya hal 75
+5.24 Kode Sumber HTML untuk menampilkan hasil evaluasi hal 76
+5.25 Kode Sumber Penghitungan skor hal 77
+5.26 Kode Sumber Antarmuka Kategori terapi hal 78
+5.27 Kode Sumber Antarmuka level terapi hal 79
+5.28 Kode Sumber Antarmuka List Terapi hal 80
+5.29 Kode Sumber Flowtype pada antarmuka list terapi hal 80
+5.30 Kode Sumber Antarmuka petunjuk terapi hal 81
+5.31 Kode Sumber Antarmuka Terapi Dasar Angka hal 82
+5.32 Kode Sumber Fungsi onclick_angka1 hal 83
+5.33 Kode Sumber Fungsi onclick_angka2 hal 83
+5.34 Kode Sumber Antarmuka Terapi Dasar Buah hal 84
+5.35 Kode Sumber Antarmuka Terapi Dasar Hewan hal 85
+5.36 Kode Sumber Antarmuka Terapi Dasar Huruf hal 86
+5.37 Kode Sumber Antarmuka Terapi Dasar Warna hal 87
+5.38 Kode Sumber Antarmuka Melabel buah hal 88
+5.39 Kode Sumber Fungsi mengganti buah hal 89
+5.40 Kode Sumber Antarmuka untuk menampilkan gambar hal 90
+5.41 Kode Sumber Antarmuka untuk memutar suara hal 90
+5.42 Kode Sumber Fungsi pengganti nomor proton hal 91
+5.43 Kode Sumber Antarmuka tepuk tangan hal 92
+5.44 Kode Sumber Antarmuka acungkan jempol hal 93
+5.45 Kode Sumber Antarmuka dalam HTML hal 94
+5.46 Kode Sumber Chart.js untuk menampilkan grafik garis hal 94
+5.47 Kode Sumber Antarmuka dalam HTML hal 95
+5.48 Kode Sumber Chart js untuk menampilkan grafik garis hal 96
+5.49 Kode Sumber Antarmuka Laporan Perbulan dalam HTML hal 97
+5.50 Kode Sumber Antarmuka laporan perbulan dalam chart.js hal 98
+5.51 Kode Sumber Antarmuka laporan persentase per aspek hal 99
+5.52 Kode Sumber Pembuatan Database Offline menggunakan WebSQL hal 100
+5.53 Kode Sumber Memasukkan Data Awal Database hal 100
+5.54 Kode Sumber Memasukkan Data User Baru hal 101
+5.55 Kode Sumber Fungsi Login hal 102
+5.56 Kode Sumber Menghitung Dan Memunculkan Umur hal 103
+5.57 Kode Sumber Menampilkan Nama Pengguna hal 104
+5.58 Kode Sumber Menampilkan Foto Pengguna hal 105
+5.59 Kode Sumber Menghitung waktu terakhir evaluasi hal 106
+5.60 Kode Sumber Menambahkan data evaluasi hal 107
+5.61 Kode Sumber Menampilkan hasil evaluasi hal 107
+5.62 Kode Sumber Menampilkan list terapi hal 108
+5.63 Kode Sumber Menampilkan data laporan total hal 109
+5.64 Kode Sumber Menampilkan laporan per aspek hal 110
+5.65 Kode Sumber Menampilkan data laporan per bulan hal 111
+5.66 Kode Sumber Memasukkan data laporan persentase hal 112
+5.67 Kode Sumber Menampilkan laporan persentase hal 113
+5.68 Kode Sumber Menghitung jumlah akun hal 114
+5.69 Kode Sumber Mengambil nilai level, kategori, nama pada tabel terapi hal 115
+5.70 Kode Sumber Mengambil data salah, benar dan waktu dari tabel nilai hal 116
+5.71 Kode Sumber Menampilkan data nilai benar, salah, persentase dan waktu hal 116
+5.72 Kode Sumber Penyimpanan pada Session Storage hal 117
+5.73 Antarmuka Pengguna Halaman Utama hal 118
+5.74 Antarmuka Pengguna Halaman Pendaftaran hal 118
+5.75 Antarmuka Pengguna Petunjuk Aplikasi hal 119
+5.76 Antarmuka Pengguna Tentang Aplikasi hal 119
+5.77 Antarmuka Pengguna Pengaturan hal 120
+5.78 Antarmuka Pengguna Login hal 120
+5.79 Antarmuka Informasi hal 121
+5.80 Antarmuka Pengguna Evaluasi hal 121
+5.81 Antarmuka Pengguna Hasil Evaluasi hal 122
+5.82 Antarmuka pengguna kategori terapi hal 122
+5.83 Antarmuka Pengguna Level Terapi hal 123
+5.84 Antarmuka Pengguna List Terapi hal 123
+5.85 Antarmuka pengguna Petunjuk Terapi hal 124
+5.86 Antarmuka pengguna Terapi Angka hal 124
+5.87 Antarmuka Pengguna Terapi Buah hal 125
+5.88 Antarmuka Pengguna Terapi Hewan hal 125
+5.89 Antarmuka Pengguna Terapi Huruf hal 126
+5.90 Antarmuka Pengguna Terapi Warna hal 126
+5.91 Antarmuka Pengguna Terapi Melabel Buah hal 127
+5.92 Antarmuka Pengguna Terapi Identifikasi Binatang hal 127
+5.93 Antarmuka Pengguna Terapi Acungkan Jempol hal 128
+5.94 Antarmuka Pengguna Terapi Tepuk Tangan hal 128
+5.95 Antarmuka Pengguna Laporan Total hal 129
+5.96 Antarmuka Pengguna Laporan per Aspek hal 129
+5.97 Antarmuka Pengguna Laporan Per Bulan hal 130
+5.98 Antarmuka Pengguna Laporan Persentase Aspek hal 130
+6.1 Tampilan pada Tablet Asus hal 133
+6.2 Tampilan pada Smartphone LG hal 133
+6.3 Pesan Error saat nama atau tanggal lahir tidak valid hal 135
+6.4 Pesan Sukses saat pendaftaran berhasil hal 135
+6.5 Tampilan pada saat evaluasi hal 137
+6.6 Pesan error saat evaluasi hal 137
+6.7 Hasil Evaluasi hal 138
+6.8 Pengujian Terapi Buah hal 140
+6.9 Pengujian Terapi Buah saat Tombol Ganti ditekan hal 140
+
